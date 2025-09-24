@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [.](.)
 
-- 📫 How to reach me **kangin5517@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
