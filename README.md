@@ -18,7 +18,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://img.shields.io/badge/Spring Boot-#6DB33F?style=flat-square&logo=#Spring Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-#6DB33F?style=flat-square&logo=#springboot&logoColor=white"/>
 </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shawn9272&" alt="shawn9272" /></p>
