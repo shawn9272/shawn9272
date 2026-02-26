@@ -1,5 +1,3 @@
-# 🚀 안녕하세요, 백엔드 개발자 강인성입니다!
-
 ### 🛠 Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
