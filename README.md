@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm 인성</h1>
-<h3 align="center">성장 중인 벡엔드 개발자입니다!</h3>
+<h1 align="center">인성</h1>
+<h3 align="center">벡엔드 개발자입니다!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shawn9272&label=Profile%20views&color=0e75b6&style=flat" alt="shawn9272" /> </p>
 
