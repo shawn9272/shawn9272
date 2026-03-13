@@ -7,7 +7,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=본인ID&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shawn9272&show_icons=true&theme=dark)
 
 ---
 
