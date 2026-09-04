@@ -51,3 +51,5 @@
 
 ### 공지사항 크롤링 시스템
 - 대학 공지사항 맞춤형 추천 시스템
+
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
