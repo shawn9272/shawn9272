@@ -22,7 +22,8 @@
 
 > 가톨릭대학교 학생을 위한 공지 개인화 알림 서비스
 
-`2026.08 ~ Present` · **Backend 중심 Full-stack / iOS Release QA**
+**Period:** 2026.08 ~ 진행 중  
+**Role:** Backend / Infra
 
 - Spring Boot 기반 알림 및 북마크 기능 개발
 - React Native(Expo) 기반 프론트엔드 기능 수정 및 API 연동
