@@ -1,7 +1,6 @@
-# 👋 Backend Developer
+# 👋 강인성 (InSeong Kang)
 
-Java와 Spring을 기반으로
-안정적인 서버 구조와 문제 해결 과정을 고민하는 백엔드 개발자입니다.
+Java와 Spring을 기반 개발자
 
 ---
 
