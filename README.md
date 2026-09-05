@@ -23,7 +23,7 @@
 > 가톨릭대학교 학생을 위한 공지 개인화 알림 서비스
 
 **Period:** 2026.08 ~ 진행 중  
-**Role:** Backend / Infra
+**Role:** Backend 중심 Full-Stack / iOS Release QA**
 
 - Spring Boot 기반 알림 및 북마크 기능 개발
 - React Native(Expo) 기반 프론트엔드 기능 수정 및 API 연동
@@ -40,17 +40,19 @@
 
 ### 한끗
 
-> 개발자 공고 맞춤 이력서 점검 서비스
+> 개발자 채용공고와 이력서를 비교하여 개선 우선순위를 제공하는 이력서 점검 서비스
 
-**Role: Backend**
+**Period:** 2026.06 ~ 2026.08  
+**Role:** Backend
 
-- 담당한 핵심 기능
-- 기술적으로 고민한 부분
-- 문제 해결 경험
-- 협업 및 개발 경험
+- OAuth 2.0 기반 소셜 로그인 및 JWT 인증 기능 개발
+- PDF 이력서의 텍스트 추출 기능 구현
+- 개인정보가 포함될 수 있는 이력서 원문을 AES-GCM으로 암호화하여 저장하도록 설계
+- LLM을 활용한 이력서 정리 과정에서 동일 입력에도 결과가 달라지는 문제를 발견하고, 추출된 원문 텍스트를 직접 활용하는 방식으로 변경하여 결과의 일관성 개선
+- PRD·기능명세서·와이어프레임을 기반으로 API 명세서 및 ERD 설계
 
 **Tech Stack**  
-`Java` `Spring Boot` `JPA` `MySQL`
+`Java` `Spring Boot` `JPA` `MySQL` `Redis`
 
 [Repository](https://github.com/SWYP14th-Team3/BackEnd)
 
@@ -58,18 +60,21 @@
 
 ### Compasser
 
-> 프로젝트를 한 문장으로 설명합니다.
+> 가톨릭대 주변 마감 할인 플랫폼
 
-**Role: Backend**
+**Period:** 2026.01 ~ 2026.06  
+**Role:** Backend / Infra
 
-- 담당 기능
-- 사용 기술
-- 구현 및 개선 경험
+- 기능 요구사항을 기반으로 REST API 명세서 작성
+- GitHub Actions 기반 CI/CD 파이프라인 구축 및 배포 자동화
+- AWS EC2 기반 서버 배포 및 운영 환경 관리
+- Spring Boot 및 MySQL 메모리 사용량을 최적화하여 월 서버 비용을 **$46 → $16로 약 65% 절감**
+- 서버 운영 중 발생한 인프라 및 배포 이슈 대응
 
 **Tech Stack**  
-`Java` `Spring Boot` `MySQL`
+`Java` `Spring Boot` `MySQL` `AWS` `GitHub Actions`
 
-[Repository](깃허브_링크)
+[Repository](https://github.com/CUK-Compasser/BE)
 
 ---
 
@@ -106,9 +111,9 @@
 
 | Period | Activity | Role |
 | --- | --- | --- |
-| 2026.09 ~ 2027.01 | 활동명 | Server |
-| 2026.XX ~ 2026.XX | 활동명 | Backend / PM |
-| 202X.XX ~ 202X.XX | GDG on Campus CUK | Backend |
+| 2021.03 ~ | 가톨릭대학교 | 컴퓨터정보공학부 |
+| 2026.07 ~ 2026.08 | SWYP Web 14기 | Backend |
+| 2025.03 ~ 2026.06 | GDG on Campus CUK | 4~6기 활동 (Spring / 공모전 / 면접) |
 
 ---
 
