@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 강인성 (InSung Kang) 수정 중...
+# 👋 강인성 (InSung Kang)
 
 ### Java / Spring Backend Developer
 
